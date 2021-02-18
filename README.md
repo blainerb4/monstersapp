@@ -1,5 +1,5 @@
 # Goal
-To create a React App that utilizes context API with the ability to search dynamically for our robots.
+To create a React App that utilizes context API with the ability to search dynamically for our monsters.
 
 ## Available Scripts
 
