@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Goal
+To create a React App that utilizes context API with the ability to search dynamically for our robots.
 
 ## Available Scripts
 
